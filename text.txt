@@ -1,1 +1,2 @@
 Zo werkt git
+Regel 2
